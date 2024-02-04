@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chikening
 - 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ... js
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
