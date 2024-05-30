@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chikening
-- 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m ken! 
+- 👀 I’m interested in ... Web Dev, C#, Python
+- 🌱 I’m currently learning ... Python, C#, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.facebook.com/ken.villaruel.77
 
