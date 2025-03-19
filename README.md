@@ -1,10 +1,22 @@
-- 👋 Hi, I’m ken! 
-- 👀 I’m interested in ... Web Dev, C#, Python
-- 🌱 I’m currently learning ... Python, C#, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://www.facebook.com/ken.villaruel.77
+# 👋 Hi, I'm Ken!
 
-<!---
-chikening/chikening is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 🔥 Passionate about **Web Development, C#, and Python**  
+- 🎯 Currently learning **Python and C#**  
+- 💡 Exploring **full-stack development & software engineering**  
+
+## 🛠 Tech Stack
+- **Languages:** C#, Python, JavaScript  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** ASP.NET Core, Django  
+- **Database:** SQL Server, PostgreSQL  
+- **Tools:** Git, GitHub, VS Code, Docker  
+
+## 📫 Let's Connect!
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+⚡ *"Keep building, keep learning!"*  
